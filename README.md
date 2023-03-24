@@ -2,7 +2,7 @@
 
 First install all the dependencies
 ```bash
-npm instal
+npm install
 # or
 yarn install
 ```
